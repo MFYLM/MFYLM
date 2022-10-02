@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Feiyang Ma, a Full-Stack Developer and third year student at UC Irvine, and interested in web/app development. I have experience of using React, Express and Node.js
+I enjoy building up applications that could improve life expereince by solving real world problems. Explore my pinned repositories to get to know projects I've done so far :)
+
 
 <!--
 **MFYLM/MFYLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+Contact me on Linkedin, view my resume or send me an email!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
