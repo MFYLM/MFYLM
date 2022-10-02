@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Feiyang Ma, a Full-Stack Developer and third year student at UC Irvine, and interested in web/app development. 
-I have experience of using React, Express and Node.js. I enjoy building up applications that could improve life expereince by solving real world problems. Explore my pinned repositories to get to know projects I've done so far :)
+### Hi there 👋 I'm Feiyang Ma, a Full-Stack Developer and third year student at UC Irvine. 
+I'm interested in web/app development and have experience of using React, Express and Node.js. I enjoy building up applications that could improve life expereince by solving real world problems. Explore my pinned repositories to get to know projects I've done so far :)
 
 
 <!--
