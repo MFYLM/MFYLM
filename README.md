@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Feiyang Ma, a Full-Stack Developer and third year student at UC Irvine. 
-I'm interested in web/app development and have experience of using Swift React, Express and Node.js. I enjoy building applications that could improve life expereince by solving real world problems. I’m currently working on a task management tool for accelerating team collaboration and also building website for DeepEM Lab @ UCI. Please explore my pinned repositories to get to know projects I've done so far :)
+I'm interested in web/app development and have experience of using Swift React, Express and Node.js. I enjoy building applications that could improve life expereince by solving real world problems. I’m currently working on a task management tool for accelerating team collaboration and also building website for DeepEM Lab @ UCI. Starting from next quarter, I'll start working on PeterPortal, a student run website providing detailed course and professor information for UCI students. Please explore my pinned repositories to get to know projects I've done so far :)
 
 
 <!--
